@@ -1,0 +1,1 @@
+# clawgod-desktop-shim
